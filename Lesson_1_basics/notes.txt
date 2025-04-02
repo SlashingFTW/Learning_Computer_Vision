@@ -1,0 +1,4 @@
+Lesson 1
+-   Images are Numpy Arrays      <class <'numpy.ndarrya'>
+--      Means that images will be read based off (height, width, number of channels) 
+----                                                            Number of Channels: 3 RGB
