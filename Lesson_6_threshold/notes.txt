@@ -1,0 +1,5 @@
+Goal:
+- into a Binary Image to detect the selected object 
+
+1) gray Scale
+2) Binary Scale 
