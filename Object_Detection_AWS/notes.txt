@@ -1,0 +1,4 @@
+To run this you need:
+    credentials.py that contains:
+        Access Key 
+        Secret Key
