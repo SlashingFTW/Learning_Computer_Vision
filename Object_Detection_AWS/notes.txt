@@ -1,4 +1,6 @@
 To run this you need:
+    Venv:
+        Boto3
     credentials.py that contains:
         Access Key 
         Secret Key
