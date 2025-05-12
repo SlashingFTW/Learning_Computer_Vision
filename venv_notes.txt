@@ -1,0 +1,15 @@
+First run Python Virtual Enviroment:
+
+To run venv:
+-- source yoloenv/bin/activate
+
+To stop venv:
+-- deactivate
+
+extra: 
+    to create:
+        -- python3 -m venv <name>
+
+    to delete:
+        -- rm -rf <name>
+
