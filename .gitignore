@@ -6,3 +6,9 @@ Object_Detection_AWS/__pycache__/
 Object_Detection_AWS/AWSenv/
 
 Object_Detection_Yolov8/yoloenv
+
+MLObjects/data
+MLObjects/data_Old
+MLObjects/resizing
+MLObjects/test_dummy
+MLObjects/train_yolo_model
